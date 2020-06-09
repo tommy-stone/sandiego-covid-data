@@ -5,6 +5,8 @@ Code downloads pdf files from SD County website and converts information to
 json output
 
 Website: https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/COVID-19%20Summary%20of%20Cases%20by%20Zip%20Code.pdf
+
+This is an old script and has been replaced.
 '''
 
 import requests
